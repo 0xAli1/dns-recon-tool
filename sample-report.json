@@ -1,0 +1,25 @@
+{
+  "target": "example.com",
+  "scanned_at": "2026-03-28T00:00:00+00:00",
+  "record_types_checked": [
+    "A",
+    "AAAA",
+    "MX",
+    "NS",
+    "CNAME"
+  ],
+  "records": {
+    "A": [
+      "93.184.216.34"
+    ],
+    "AAAA": [],
+    "MX": [],
+    "NS": [],
+    "CNAME": []
+  },
+  "reverse_dns": {},
+  "notes": [
+    "MX, NS, and CNAME are left as placeholders in this offline-safe implementation.",
+    "The tool demonstrates structured reconnaissance and report output."
+  ]
+}
